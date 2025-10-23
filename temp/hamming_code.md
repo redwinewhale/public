@@ -48,7 +48,7 @@ $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 `위 두 식으로 아래 식 확인 가능`
   
 $w_1 + w_2 + w_3 \quad \quad + w_5 \quad \quad \quad \quad  = 0$  
-$\quad \quad w_2 + w_3 + w_4 \quad \quad + w_6  \quad \quad = 0$  
+$\\, \quad \quad w_2 + w_3 + w_4 \quad \quad + w_6  \quad \quad = 0$  
 $w_1 + w_2 \quad \quad + w_4 \quad \quad \quad \quad + w_7 = 0$
 
 ### 신드롬
