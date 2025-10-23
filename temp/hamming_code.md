@@ -14,8 +14,8 @@
 
 
 $c_1 = x_1 + x_2 + x_3 \quad \quad$  
-$c_2 = \quad \quad \, x_2 + x_3 + x_4$  
-$c_3 = x_1 + x_2  \quad \quad \, + x_4$
+$c_2 = \quad \quad x_2 + x_3 + x_4$  
+$c_3 = x_1 + x_2  \quad \quad + x_4$
 
 
 <img src="image/{6BFD10C1-8B41-4632-9162-100A1C729164}.png" width="500px">
