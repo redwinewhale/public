@@ -13,7 +13,7 @@
 -   4개의 정보비트에 대한 3개의 검사 비트
 <br>
 $ c_1 = x_1 + x_2 + x_3 $<br>
-$ c_2 =\quad \quad \, x_2 + x_3 + x_4 $<br>
+$ c_2 = \quad \quad \, x_2 + x_3 + x_4 $<br>
 $ c_3 = x_1 + x_2  \quad \quad \, + x_4 $
 
 <img src="image/{6BFD10C1-8B41-4632-9162-100A1C729164}.png" width="500px">
@@ -36,7 +36,7 @@ $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 ---
 
 $ c_1 = x_1 + x_2 + x_3 $<br>
-$ c_2 =\quad \quad \, x_2 + x_3 + x_4 $<br>
+$ c_2 = \quad \quad \, x_2 + x_3 + x_4 $<br>
 $ c_3 = x_1 + x_2  \quad \quad \, + x_4 $<br>
 
 
@@ -45,9 +45,9 @@ $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 
 `위 두 식으로 아래 식 확인 가능`
 <br>
-$w_1 + w_2 + w_3 \quad \quad \, + w_5 \quad \quad \,\quad \quad  = 0$ <br>
-$\quad \quad \, w_2 + w_3 + w_4 \quad \quad \, + w_6  \quad \quad = 0$ <br>
-$w_1 + w_2 \quad \quad \, + w_4 \quad \quad \quad \quad + w_7 = 0$
+$ w_1 + w_2 + w_3 \quad \quad \, + w_5 \quad \quad \,\quad \quad  = 0 $ <br>
+$ \quad \quad \, w_2 + w_3 + w_4 \quad \quad \, + w_6  \quad \quad = 0 $ <br>
+$ w_1 + w_2 \quad \quad \, + w_4 \quad \quad \quad \quad + w_7 = 0 $
 
 ### 신드롬
 수신어 $ y = (y_1, y_2, ... ,y_7) $
