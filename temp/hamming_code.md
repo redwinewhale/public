@@ -14,7 +14,7 @@
 
 
 $c_1 = x_1 + x_2 + x_3 \quad \quad$  
-$c_2 = \quad \quad x_2 + x_3 + x_4$  
+$c_2 = \\, \quad \quad x_2 + x_3 + x_4$  
 $c_3 = x_1 + x_2  \quad \quad + x_4$
 
 
@@ -38,7 +38,7 @@ $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 ---
 
 $c_1 = x_1 + x_2 + x_3$  
-$c_2 = \, \quad \quad x_2 + x_3 + x_4$  
+$c_2 = \quad \quad x_2 + x_3 + x_4$  
 $c_3 = x_1 + x_2  \quad \quad + x_4$
 
 
