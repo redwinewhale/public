@@ -14,7 +14,9 @@
 
 ```math
 c_1 = x_1 + x_2 + x_3
+
 c_2 = \quad \quad \, x_2 + x_3 + x_4
+
 c_3 = x_1 + x_2  \quad \quad \, + x_4
 ```
 
