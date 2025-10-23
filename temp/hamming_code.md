@@ -21,7 +21,6 @@ $c_3 = x_1 + x_2  \quad \quad + x_4$
 <img src="image/{6BFD10C1-8B41-4632-9162-100A1C729164}.png" width="500px">
 
 -   부호어 w 생성
-<br>
 
 $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 
@@ -39,7 +38,7 @@ $w = (x_1, x_2, x_3, x_4, c_1, c_2, c_3) = (w_1, w_2,w_3, w_4, w_5, w_6, w_7)$
 ---
 
 $c_1 = x_1 + x_2 + x_3$  
-$c_2 = \quad \quad x_2 + x_3 + x_4$  
+$c_2 = \, \quad \quad x_2 + x_3 + x_4$  
 $c_3 = x_1 + x_2  \quad \quad + x_4$
 
 
